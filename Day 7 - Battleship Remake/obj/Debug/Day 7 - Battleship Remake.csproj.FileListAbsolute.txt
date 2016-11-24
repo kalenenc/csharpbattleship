@@ -1,0 +1,6 @@
+c:\users\tina\documents\visual studio 2015\Projects\Day 7 - Battleship Remake\Day 7 - Battleship Remake\bin\Debug\Day 7 - Battleship Remake.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\Day 7 - Battleship Remake\Day 7 - Battleship Remake\bin\Debug\Day 7 - Battleship Remake.exe
+c:\users\tina\documents\visual studio 2015\Projects\Day 7 - Battleship Remake\Day 7 - Battleship Remake\bin\Debug\Day 7 - Battleship Remake.pdb
+c:\users\tina\documents\visual studio 2015\Projects\Day 7 - Battleship Remake\Day 7 - Battleship Remake\obj\Debug\Day 7 - Battleship Remake.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\Day 7 - Battleship Remake\Day 7 - Battleship Remake\obj\Debug\Day 7 - Battleship Remake.exe
+c:\users\tina\documents\visual studio 2015\Projects\Day 7 - Battleship Remake\Day 7 - Battleship Remake\obj\Debug\Day 7 - Battleship Remake.pdb
